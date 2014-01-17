@@ -3,7 +3,7 @@
 * Create in 2014-17-01 by Leandro Dias @le17i
 * Version: 1.0.0.0
 * GitHub: le17i
-* URL: 
+* URL: https://github.com/le17i/loader-asycn.git
 **/
 
 (function (window, document) {
