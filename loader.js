@@ -1,6 +1,7 @@
 /**
 * Loader async files JS and CSS
 * Create in 2014-17-01 by Leandro Dias @le17i
+* Version: 1.0.0.0
 * GitHub: le17i
 * URL: 
 **/
